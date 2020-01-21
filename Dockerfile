@@ -1,3 +1,3 @@
 FROM alpine
 
-CMD apk add cowsay 
+CMD ls -la 
